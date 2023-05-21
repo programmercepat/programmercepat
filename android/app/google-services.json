@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "44578531717",
+    "project_id": "programmer-cepat",
+    "storage_bucket": "programmer-cepat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44578531717:android:13f7f72b6171cd87a23cec",
+        "android_client_info": {
+          "package_name": "com.programmercepat.web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44578531717-l3i59nmpmvsge9urupnadve4m0gmtgu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programmercepat.web",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "44578531717-kpv0l5hvqcjatb6toprkfmsejff5742p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo2K9TJoewiZT7GzLdm-0jEM1s5hcvTQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44578531717-kpv0l5hvqcjatb6toprkfmsejff5742p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44578531717-7hvn2scbe3d8tt0qos3v2772l40jn9q4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.programmercepat.web"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
